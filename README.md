@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsumat&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iamsumat" /> </p>
 
-### Hi there, I'm Sumat! 👋
+### Hi there! 👋
 
 - 🔭 I’m currently working on Data Analysis.
 - 🌱 I’m currently learning Python.
