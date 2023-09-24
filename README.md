@@ -7,12 +7,12 @@
 
 ### Hello there!
 
-- 🔭 I’m currently working on Data Analysis.
-- 🌱 I’m currently learning Python.
+- 🔭 I’m currently working on Data Analysis and Big Data, when I'm not building projects here.
+- 🌱 I’m currently learning Python & Javascript.
 - 💬 Ask me about Python Development and Data Analysis.
 - 📫 How to reach me: Check my socials below.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I once participated in a competitive burger-eating contest and managed to devour 15 burgers in under 10 minutes! 🍔
+- ⚡ Fun fact: I once participated in a competitive burger-eating contest and managed to devour 11 burgers in under 10 minutes! 🍔
 
 
 ## 🌐 Socials
